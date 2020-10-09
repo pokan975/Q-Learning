@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Nov 21 19:16:04 2019
-@author: WilliamShih
+@author: Po-Kan (William) Shih
+@advisor: Dr.Bahman Moraffah
 Another try of Q-learning
 """
 import numpy as np
