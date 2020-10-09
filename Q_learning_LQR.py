@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct  8 18:54:10 2019
-@author: WilliamShih
-"""
-"""
+@author: Po-Kan (William) Shih
+@advisor: Dr.Bahman Moraffah
 This program simulates the algorithm proposed in the paper 
 "Reinforcement Learning Applied to Linear Quadratic Regulation",
 following code flow shown in Figure(1) in the paper
